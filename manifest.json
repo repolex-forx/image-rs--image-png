@@ -1499,6 +1499,131 @@
       ],
       "ast": [
         "aggregate/ast/6ddb6882a2bb0ce875f65eb83a2adfd3f64bf8bd/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/6ddb6882a2bb0ce875f65eb83a2adfd3f64bf8bd.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "bitflags",
+          "ecosystem": "CARGO",
+          "version": "2.0",
+          "githubOrg": "bitflags",
+          "githubRepo": "bitflags",
+          "githubUrl": "https://github.com/bitflags/bitflags",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "crc32fast",
+          "ecosystem": "CARGO",
+          "version": "1.2.0",
+          "githubOrg": "srijs",
+          "githubRepo": "rust-crc32fast",
+          "githubCommit": "6cc30a5a4643f6a5b1b3339d8a8c23f7dd902fc2",
+          "githubTag": "v1.2.0",
+          "githubUrl": "https://github.com/srijs/rust-crc32fast",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "fdeflate",
+          "ecosystem": "CARGO",
+          "version": "0.3.3",
+          "githubOrg": "image-rs",
+          "githubRepo": "fdeflate",
+          "githubCommit": "160b008a27d93e4bfb300524ff8fcef8165286d7",
+          "githubTag": "v0.3.3",
+          "githubUrl": "https://github.com/image-rs/fdeflate",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "flate2",
+          "ecosystem": "CARGO",
+          "version": "1.0.35",
+          "githubOrg": "rust-lang",
+          "githubRepo": "flate2-rs",
+          "githubCommit": "14aec222af2b85485bd3df4578d8d510eca46af7",
+          "githubTag": "1.0.35",
+          "githubUrl": "https://github.com/rust-lang/flate2-rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "miniz_oxide",
+          "ecosystem": "CARGO",
+          "version": "0.8",
+          "githubOrg": "Frommi",
+          "githubRepo": "miniz_oxide",
+          "githubUrl": "https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "approx",
+          "ecosystem": "CARGO",
+          "version": "0.5.1",
+          "githubOrg": "brendanzab",
+          "githubRepo": "approx",
+          "githubCommit": "13fcbc78dcda4d0136de07c36a7979d545f08e38",
+          "githubTag": "v0.5.1",
+          "githubUrl": "https://github.com/brendanzab/approx",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "byteorder",
+          "ecosystem": "CARGO",
+          "version": "1.5.0",
+          "githubOrg": "BurntSushi",
+          "githubRepo": "byteorder",
+          "githubCommit": "ec068eefa042d494475db125c4b034bd8e9e34dd",
+          "githubTag": "1.5.0",
+          "githubUrl": "https://github.com/BurntSushi/byteorder",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clap",
+          "ecosystem": "CARGO",
+          "version": "3.0",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubUrl": "https://github.com/clap-rs/clap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "criterion",
+          "ecosystem": "CARGO",
+          "version": "0.4.0",
+          "githubOrg": "criterion-rs",
+          "githubRepo": "criterion.rs",
+          "githubCommit": "5e27b692a43a05736d073fd449e16dcf1c24628c",
+          "githubTag": "0.4.0",
+          "githubUrl": "https://github.com/criterion-rs/criterion.rs",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "getopts",
+          "ecosystem": "CARGO",
+          "version": "0.2.14",
+          "githubOrg": "rust-lang",
+          "githubRepo": "getopts",
+          "githubUrl": "https://github.com/rust-lang/getopts",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "glob",
+          "ecosystem": "CARGO",
+          "version": "0.3",
+          "githubOrg": "rust-lang",
+          "githubRepo": "glob",
+          "githubUrl": "https://github.com/rust-lang/glob",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "rand",
+          "ecosystem": "CARGO",
+          "version": "0.8.4",
+          "githubOrg": "rust-random",
+          "githubRepo": "rand",
+          "githubCommit": "8792268dfe57e49bb4518190bf4fe66176759a44",
+          "githubTag": "0.8.4",
+          "githubUrl": "https://github.com/rust-random/rand",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
