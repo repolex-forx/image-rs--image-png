@@ -1,0 +1,11 @@
+{
+  "org": "image-rs",
+  "repo": "image-png",
+  "versions": [
+    {
+      "commit": "6ddb6882a2bb0ce875f65eb83a2adfd3f64bf8bd",
+      "tag": "v0.18.0-rc.3",
+      "parsed_at": "2026-11-22T13:20:54.789646+00:00"
+    }
+  ]
+}
